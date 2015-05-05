@@ -1,3 +1,5 @@
+//Alex Esposito
+//Animation Exercise - 2015
 #pragma once
 
 #include "ofMain.h"
